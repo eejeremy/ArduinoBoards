@@ -1,0 +1,60 @@
+{
+  "packages":
+  [
+    {
+      "name": "AT90CAN",
+      "maintainer": "Rim Rock Wire & Assemembly",
+      "websiteURL": "https://rimrockwire.com",
+      "email" : "techsupport@rimrockwire.com",
+      "platforms":
+      [
+        {
+          "name": "Rim Rock Boards",
+          "architecture": "samd",
+          "version": "0.0.01",
+          "category": "Contributed",
+          "url": "https://rimrockmc.com/AT90CAN64-0.0.01.zip",
+          "archiveFileName": "AT90CAN64-0.0.01.zip",
+          "checksum": "SHA-256:700efdfb21088bdf626a63f95af64e7272e625423c156bc40dc1d3d75d972664",
+          "size": "364544",
+          "boards": [
+            {
+              "name": "AT90CAN"
+            }
+          ],
+          "toolsDependencies":
+          [
+            {
+              "packager": "arduino",
+              "name": "arm-none-eabi-gcc",
+              "version": "7-2017q4"
+            },
+            {
+              "packager": "arduino",
+              "name": "bossac",
+              "version": "1.8.0-48-gb176eee"
+            },
+            {
+              "packager": "arduino",
+              "name": "openocd",
+              "version": "0.10.0-arduino9"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS",
+              "version": "4.5.0"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS-Atmel",
+              "version": "1.2.0"
+            }
+          ]
+        }
+      ],
+      "tools":
+      [
+      ]
+    }
+  ]
+}
