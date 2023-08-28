@@ -16,7 +16,7 @@
           "url": "https://github.com/eejeremy/ArduinoBoards/raw/main/AT90CAN64-0.0.1.zip",
           "archiveFileName": "AT90CAN64-0.0.1.zip",
           "checksum": "SHA-256:cb31dbf451d0e650eafde097c32bda8bc5dee0e8a5168a4b04db8a0eca9a2c62",
-          "size": "65536",
+          "size": "65058",
           "boards": [
             {
               "name": "AT90CAN"
