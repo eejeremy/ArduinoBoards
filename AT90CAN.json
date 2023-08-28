@@ -10,7 +10,7 @@
       [
         {
           "name": "Rim Rock Boards",
-          "architecture": "samd",
+          "architecture": "avr",
           "version": "0.0.01",
           "category": "Contributed",
           "url": "https://rimrockmc.com/AT90CAN64-0.0.01.zip",
