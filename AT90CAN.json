@@ -19,7 +19,7 @@
           "size": "364544",
           "boards": [
             {
-              "name": "Robo HAT MM1"
+              "name": "AT90CAN64"
             }
           ],
           "toolsDependencies":
